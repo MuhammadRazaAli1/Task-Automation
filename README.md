@@ -61,28 +61,26 @@ sales@company.com
 support@company.com
 
 Console Output:
-========================================
          ✅ Email Extraction Complete
-========================================
+--------------------------------------------
 📄 Input File: sample_text.txt
 📄 Output File: extracted_emails.txt
 📧 Total Unique Emails Found: 4
-========================================
 ```
 
 ## Supported Email Formats
 The extractor recognizes and validates these email formats:
 
-✅ **Standard Format**
+**Standard Format**
 - user@example.com
 - firstname.lastname@company.org
 
-✅ **Numbers & Special Characters**
+**Numbers & Special Characters**
 - user123@domain.co.uk
 - john.doe+filter@gmail.com
 - support_team@company.com
 
-✅ **Complex Domains**
+**Complex Domains**
 - user@subdomain.example.co.uk
 - admin@mail.organization.gov
 - contact@my-company.com
@@ -172,42 +170,5 @@ Future improvements could include:
 * **Marketing Campaigns** - Preparing email lists for outreach
 * **Security Audits** - Finding exposed email addresses
 * **Research Projects** - Collecting email data for analysis
-
-
-```
-
-## Regex Resources
-
-For learning more about regular expressions:
-* [Python re module documentation](https://docs.python.org/3/library/re.html)
-* [Regex101.com - Interactive regex tester](https://regex101.com/)
-* [RegexOne - Regex tutorials](https://regexone.com/)
-* [Python Regex Tutorial](https://www.w3schools.com/python/python_regex.asp)
-
-## Important Notes
-
-⚠️ **Email Format Limitations:**
-- The regex pattern focuses on common email formats
-- Some edge cases may not be captured (especially international domains)
-- Validation is based on format, not actual email existence
-- Verification would require SMTP validation or API calls
-
-✅ **Best Practices:**
-- Always verify extracted emails before use
-- Keep backup of original files
-- Test with sample data first
-- Ensure proper encoding for special characters
-
-## Related Concepts
-* Data extraction and mining
-* Text processing and analysis
-* Automation scripting
-* Pattern recognition
-* Information retrieval
-* Data validation techniques
-* Email marketing tools
-* Contact management systems
-
----
 
 **"Extract emails efficiently, organize data intelligently."** 📧✨
