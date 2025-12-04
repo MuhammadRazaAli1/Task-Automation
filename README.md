@@ -173,28 +173,7 @@ Future improvements could include:
 * **Security Audits** - Finding exposed email addresses
 * **Research Projects** - Collecting email data for analysis
 
-## Difficulty Level
-**Beginner to Intermediate** ⭐⭐
 
-This project combines:
-- Regular expression fundamentals
-- File system operations
-- Data structure manipulation
-- Error prevention techniques
-- Real-world automation
-
-## Prerequisites
-- Python 3.6 or higher
-- Basic understanding of string operations
-- Familiarity with file handling
-- Introduction to regular expressions
-- Understanding of sets and lists
-
-## How to Run
-
-### Step 1: Run the script for the first time
-```bash
-python email_extractor.py
 ```
 
 ### Step 2: Add content to input file
@@ -243,5 +222,3 @@ For learning more about regular expressions:
 ---
 
 **"Extract emails efficiently, organize data intelligently."** 📧✨
-
-*Last Updated: December 2024*
