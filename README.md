@@ -138,14 +138,14 @@ your_project_folder/
 ## Learning Outcomes
 By working with this project, you will learn:
 
-✅ **Regular Expressions** - Mastering regex for pattern matching  
-✅ **File Handling** - Reading and writing files safely  
-✅ **Data Deduplication** - Removing duplicates efficiently  
-✅ **Text Processing** - Analyzing and extracting information  
-✅ **Automation** - Building automated data extraction tools  
-✅ **Error Prevention** - Proactive error handling strategies  
-✅ **Data Organization** - Sorting and organizing extracted data  
-✅ **Real-World Applications** - Building practical automation tools  
+**Regular Expressions** - Mastering regex for pattern matching  
+**File Handling** - Reading and writing files safely  
+**Data Deduplication** - Removing duplicates efficiently  
+**Text Processing** - Analyzing and extracting information  
+**Automation** - Building automated data extraction tools  
+**Error Prevention** - Proactive error handling strategies  
+**Data Organization** - Sorting and organizing extracted data  
+**Real-World Applications** - Building practical automation tools  
 
 ## Possible Enhancements
 
@@ -175,17 +175,6 @@ Future improvements could include:
 
 
 ```
-
-### Step 2: Add content to input file
-Open `sample_text.txt` and add your text containing emails
-
-### Step 3: Run the script again
-```bash
-python email_extractor.py
-```
-
-### Step 4: Check results
-View `extracted_emails.txt` for the extracted email list
 
 ## Regex Resources
 
